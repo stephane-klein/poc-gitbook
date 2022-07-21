@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Handbook Foobar](README.md)
+* [Handbook FooFooFoo](README.md)
 
 ## The Basics
 
